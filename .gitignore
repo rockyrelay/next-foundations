@@ -1,0 +1,33 @@
+# Next.js
+.next/
+out/
+node_modules/
+
+# Serverless Next.js plugins
+serverless.yml
+sls-config.js
+
+# React
+*.log
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Misc
+.DS_Store
+Thumbs.db
+.cache/
+.nyc_output/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
